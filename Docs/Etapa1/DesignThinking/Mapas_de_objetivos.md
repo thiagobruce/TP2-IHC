@@ -1,5 +1,5 @@
 
-O **Mapa de Objetivos** é uma estrutura visual e descritiva que define os principais objetivos de um aplicativo voltado para usuários com TOC (Transtorno Obsessivo-Compulsivo). Esse mapa organiza as metas do app em ramos, cada um contendo funcionalidades específicas, para facilitar o entendimento das soluções propostas e como elas contribuem para a melhoria da qualidade de vida dos usuários.
+O Mapa de Objetivos é uma estrutura visual e descritiva que define os principais objetivos de um aplicativo voltado para usuários com TOC (Transtorno Obsessivo-Compulsivo). Esse mapa organiza as metas do app em ramos, cada um contendo funcionalidades específicas, para facilitar o entendimento das soluções propostas e como elas contribuem para a melhoria da qualidade de vida dos usuários.
 
 ## Eixo Central: Melhorar a Qualidade de Vida do Usuário com TOC
 
@@ -14,7 +14,5 @@ O **Mapa de Objetivos** é uma estrutura visual e descritiva que define os princ
 ### Ramo 3: Melhorar o Foco e a Produtividade
 - **Funcionalidade**: Ferramentas rápidas para controle de impulsos.
 - **Funcionalidade**: Relatórios de progresso.
-
---
 
 ## Diagrama Visual
