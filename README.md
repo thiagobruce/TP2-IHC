@@ -1,6 +1,6 @@
 # Apresentação
 
-Trabalho Prático 2
+Trabalho Prático II - Entrega I
 
 Curso: Sistemas de Informação
 
