@@ -16,6 +16,8 @@ Usar o app para reduzir a ansiedade e lidar com o estresse de adaptação, retom
 Protótipo
 ![1 ihc rascunho](https://github.com/user-attachments/assets/959bee7c-a72a-47fe-8f76-e948bddc86d3)
 
+Storyboard
+![ihc- 1- storyboard](https://github.com/user-attachments/assets/4ec8a8d3-2fc7-47c2-b046-5dc3b3a2302e)
 
 ---
 
@@ -36,6 +38,10 @@ Utilizar uma prática de aceitação do app para ignorar os impulsos e focar no 
 Protótipo
 ![2 ihc rascunho](https://github.com/user-attachments/assets/025a67e5-e539-4cff-951e-562d68bd92f5)
 
+Storyboard
+![ihc- 2-storyboard](https://github.com/user-attachments/assets/164cae3d-87a1-46aa-b543-7f15301a1726)
+
+
 ---
 
 # Storyboard 3: Carolina Medeiros - Concluindo Tarefas Domésticas
@@ -55,5 +61,6 @@ Usar o app para praticar exposição gradual e concluir a atividade sem rituais.
 Protótipo
 ![3 ihc rascunho](https://github.com/user-attachments/assets/bbbe1fe9-acee-44bc-befa-2c9ce18f6cb1)
 
-
+Storyboard
+![ihc-3-storyboard](https://github.com/user-attachments/assets/9ab3f0f3-2e5d-4ccc-85aa-6bfd4e1b00ab)
 
