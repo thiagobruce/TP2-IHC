@@ -38,5 +38,24 @@ Marcos está em uma reunião de equipe discutindo um novo projeto. Durante a con
 - Marcos retorna à reunião mais calmo e consegue se concentrar na conversa sem ceder ao impulso.  
 
 **Resultado:**  
-Ele participa ativamente da discussão, sente-se mais produtivo e não é afetado pelos gatilhos de simetria.
+Ele participa ativamente da discussão, sente-se mais produtivo e não é afetado pelos gatilhos de simetria.  
 
+---
+
+# Cenário 3: Carolina Medeiros - Finalizando Tarefas Domésticas
+
+**Contexto:**  
+Carolina está organizando a sala de estar e percebe que não consegue deixar os objetos na prateleira sem ajustá-los repetidamente. Isso transforma uma tarefa simples em algo exaustivo e frustrante.
+
+**Problemas/Desafios:**  
+- Incapacidade de tolerar pequenos "erros" na organização.  
+- Sensação de cansaço por gastar tempo excessivo em tarefas simples.  
+
+**Interação com o App:**  
+- Carolina abre o app e seleciona a seção "Exposição Gradual".  
+- O app sugere que ela organize os objetos de forma "imperfeita" e observe o desconforto sem ajustá-los imediatamente.  
+- O exercício é guiado com lembretes para respirar profundamente e focar na sensação de progresso.  
+- Carolina termina a tarefa com alguns "erros" tolerados e sente alívio por ter concluído sem gastar mais tempo.  
+
+**Resultado:**  
+Ela completa a tarefa de forma eficiente, sente-se menos sobrecarregada e tem mais tempo para outras atividades.
