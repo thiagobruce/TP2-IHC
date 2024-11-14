@@ -1,6 +1,5 @@
-## ANÁLISE DE SOLUÇÕES EXISTENTES
 
-### **Problemas Identificados**
+## **Problemas Identificados**
 
 O Transtorno Obsessivo-Compulsivo (TOC) é um transtorno de saúde mental caracterizado por pensamentos intrusivos e comportamentos compulsivos que afetam profundamente a vida cotidiana. Estima-se que 2% da população mundial sofra com TOC, o que implica em sérios desafios, não apenas emocionais, mas também na produtividade e nos relacionamentos interpessoais. De acordo com a Organização Mundial da Saúde (OMS, 2022), esses sintomas podem gerar grande impacto no bem-estar geral dos indivíduos.
 
