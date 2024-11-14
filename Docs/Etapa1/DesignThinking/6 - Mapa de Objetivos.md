@@ -16,4 +16,4 @@ O Mapa de Objetivos é uma estrutura visual e descritiva que define os principai
 - **Funcionalidade**: Relatórios de progresso.
 
 ## Diagrama Visual
-![Mapa de Objetivos drawio (1)](https://github.com/user-attachments/assets/004eb90d-94a0-4263-82a4-d0e443e48596)
+![Captura de tela 2024-11-13 232543](https://github.com/user-attachments/assets/21bfdde2-af12-46db-ad36-f2ebcf7cb5a4)
