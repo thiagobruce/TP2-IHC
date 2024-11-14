@@ -13,7 +13,9 @@ Usar o app para reduzir a ansiedade e lidar com o estresse de adaptação, retom
 - **Quarto quadro:** O app sugere uma técnica de respiração guiada. Ana segue as instruções (representadas com bolhas de texto como: "Inspire... Expire..."), enquanto relaxa e tenta focar, deixando de lado a necessidade de organização e a preocupação com a falta de recursos.  
 - **Quinto quadro:** Após o exercício, Ana se sente mais calma e consegue voltar ao trabalho com foco, superando a sensação de desvantagem e ignorando temporariamente as barreiras de acessibilidade.
 
-(inserir a fig aqui)
+Protótipo
+![1 ihc rascunho](https://github.com/user-attachments/assets/959bee7c-a72a-47fe-8f76-e948bddc86d3)
+
 
 ---
 
@@ -31,7 +33,8 @@ Utilizar uma prática de aceitação do app para ignorar os impulsos e focar no 
 - **Terceiro quadro:** O app sugere um exercício de aceitação que envolve deixar um objeto fora de lugar e observar a reação emocional.  
 - **Quarto quadro:** Marcos deixa uma caneta desalinhada, respira fundo e, ao final do exercício, consegue voltar ao trabalho, deixando a mesa como está.
 
-(inserir a fig aqui)
+Protótipo
+![2 ihc rascunho](https://github.com/user-attachments/assets/025a67e5-e539-4cff-951e-562d68bd92f5)
 
 ---
 
@@ -49,7 +52,8 @@ Usar o app para praticar exposição gradual e concluir a atividade sem rituais.
 - **Terceiro quadro:** O app propõe que ela deixe um pequeno "erro" na arrumação, como um livro levemente desalinhado, e monitore seu desconforto.  
 - **Quarto quadro:** Carolina finaliza a tarefa com alguns objetos fora do lugar, mas sente-se satisfeita e menos sobrecarregada.
 
-(inserir a fig aqui)
+Protótipo
+![3 ihc rascunho](https://github.com/user-attachments/assets/bbbe1fe9-acee-44bc-befa-2c9ce18f6cb1)
 
 
 
