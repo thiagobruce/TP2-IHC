@@ -13,10 +13,10 @@ Usar o app para reduzir a ansiedade e lidar com o estresse de adaptação, retom
 - **Quarto quadro:** O app sugere uma técnica de respiração guiada. Ana segue as instruções (representadas com bolhas de texto como: "Inspire... Expire..."), enquanto relaxa e tenta focar, deixando de lado a necessidade de organização e a preocupação com a falta de recursos.  
 - **Quinto quadro:** Após o exercício, Ana se sente mais calma e consegue voltar ao trabalho com foco, superando a sensação de desvantagem e ignorando temporariamente as barreiras de acessibilidade.
 
-Protótipo
+**Protótipo**
 ![1 ihc rascunho](https://github.com/user-attachments/assets/959bee7c-a72a-47fe-8f76-e948bddc86d3)
 
-Storyboard
+**Storyboard**
 ![ihc- 1- storyboard](https://github.com/user-attachments/assets/4ec8a8d3-2fc7-47c2-b046-5dc3b3a2302e)
 
 ---
@@ -35,10 +35,10 @@ Utilizar uma prática de aceitação do app para ignorar os impulsos e focar no 
 - **Terceiro quadro:** O app sugere um exercício de aceitação que envolve deixar um objeto fora de lugar e observar a reação emocional.  
 - **Quarto quadro:** Marcos deixa uma caneta desalinhada, respira fundo e, ao final do exercício, consegue voltar ao trabalho, deixando a mesa como está.
 
-Protótipo
+**Protótipo**
 ![2 ihc rascunho](https://github.com/user-attachments/assets/025a67e5-e539-4cff-951e-562d68bd92f5)
 
-Storyboard
+**Storyboard**
 ![ihc- 2-storyboard](https://github.com/user-attachments/assets/164cae3d-87a1-46aa-b543-7f15301a1726)
 
 
@@ -58,9 +58,9 @@ Usar o app para praticar exposição gradual e concluir a atividade sem rituais.
 - **Terceiro quadro:** O app propõe que ela deixe um pequeno "erro" na arrumação, como um livro levemente desalinhado, e monitore seu desconforto.  
 - **Quarto quadro:** Carolina finaliza a tarefa com alguns objetos fora do lugar, mas sente-se satisfeita e menos sobrecarregada.
 
-Protótipo
+**Protótipo**
 ![3 ihc rascunho](https://github.com/user-attachments/assets/bbbe1fe9-acee-44bc-befa-2c9ce18f6cb1)
 
-Storyboard
+**Storyboard**
 ![ihc-3-storyboard](https://github.com/user-attachments/assets/9ab3f0f3-2e5d-4ccc-85aa-6bfd4e1b00ab)
 
