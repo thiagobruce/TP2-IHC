@@ -21,6 +21,10 @@
 - *Subtarefa 3.1*: Salvar as alterações clicando em "Salvar configurações".  
 - *Subtarefa 3.2*: Avaliar uma interface adaptada para verificar as configurações.
 
+#### *Passo 4: Encerrar sessão*  
+- *Subtarefa 4.1*: Voltar ao menu principal do app.  
+- *Subtarefa 4.2*: Fechar o app.
+
 ---
 
 
