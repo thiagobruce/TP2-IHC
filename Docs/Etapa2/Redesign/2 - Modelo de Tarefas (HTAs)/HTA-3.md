@@ -17,5 +17,9 @@
 - *Subtarefa 3.1*: Abrir uma Escala de Sentimentos.  
 - *Subtarefa 3.2*: Inserir emoções e reflexões sobre o desafio.  
 
+#### *Passo 4: Encerrar sessão*  
+- *Subtarefa 4.1*: Voltar ao menu principal do app.  
+- *Subtarefa 4.2*: Fechar o app.
+
 ---
 
