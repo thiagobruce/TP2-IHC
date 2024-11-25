@@ -5,6 +5,6 @@ O Mapa de Objetivos é uma estrutura visual e descritiva que define os principai
 
 ## DIAGRAMA VISUAL
 
-![Mapa de Objetivos](https://github.com/user-attachments/assets/e35cff6b-a354-4eb9-b97e-59bccce6a9f4)
+![WhatsApp Image 2024-11-25 at 17 34 33](https://github.com/user-attachments/assets/dd29436b-e83a-4fc9-b3d8-34bdf018c5f9)
 
 Detalhamento visual das interações entre o usuário e o sistema, destacando as ações necessárias para alcançar os objetivos finais e instrumentais, com ênfase no apoio emocional, aceitação da desordem, estímulo à criatividade, redução da ansiedade e promoção do acolhimento.
