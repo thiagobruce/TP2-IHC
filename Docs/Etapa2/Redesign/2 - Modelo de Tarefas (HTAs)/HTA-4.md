@@ -4,7 +4,6 @@
 
 
 ## Descrição
-*Objetivo Principal*: Executar uma técnica de relaxamento guiada.  
 
 #### *Passo 1: Selecionar a funcionalidade de relaxamento*  
 - *Subtarefa 1.1*: Navegar no menu principal.  
