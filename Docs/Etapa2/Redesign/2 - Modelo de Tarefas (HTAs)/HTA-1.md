@@ -19,5 +19,8 @@
 
 #### *Passo 3: Salvar e testar configurações*  
 - *Subtarefa 3.1*: Salvar as alterações clicando em "Salvar configurações".  
-- *Subtarefa 3.2*: Avaliar uma interface adaptada para verificar as configurações.  
+- *Subtarefa 3.2*: Avaliar uma interface adaptada para verificar as configurações.
+
+---
+
 
