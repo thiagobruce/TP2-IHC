@@ -1,6 +1,6 @@
 # Realização de Técnicas Básicas de Relaxamento
 
-![WhatsApp Image 2024-11-25 at 17 03 55 (1)](https://github.com/user-attachments/assets/1fa13788-99d1-4a79-9730-4c6fa1bd32a7)
+![WhatsApp Image 2024-11-25 at 17 06 37 (1)](https://github.com/user-attachments/assets/878dace9-32de-4e94-88a0-7dea0624fb95)
 
 
 ## Descrição
