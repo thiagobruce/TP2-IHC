@@ -18,8 +18,8 @@
 - *Subtarefa 3.1*: Seguir o ritmo de respiração indicado pelo app.  
 - *Subtarefa 3.2*: Finalizar após o tempo sugerido.  
 
-#### *Passo 4: Cerrar e registrar*  
-- *Subtarefa 4.1*: Inserir emoções na Escala de Sentimentos após o exercício.  
-- *Subtarefa 4.2*: Salvar o progresso registrado.  
+#### *Passo 4: Encerrar sessão*  
+- *Subtarefa 4.1*: Voltar ao menu principal do app.  
+- *Subtarefa 4.2*: Fechar o app.
 
 ---
