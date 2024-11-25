@@ -1,4 +1,4 @@
-# Funcionalidade "Configuração de acessibilidade personalizada"
+# Funcionalidade "Configuração de acessibilidade personalizada" e "Escala de Sentimentos'
 
 
 
