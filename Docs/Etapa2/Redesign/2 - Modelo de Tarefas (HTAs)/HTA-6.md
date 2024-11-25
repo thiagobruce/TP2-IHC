@@ -17,3 +17,8 @@
 - *Subtarefa 3.1*: Acessar as sugestões de exercícios personalizados.  
 - *Subtarefa 3.2*: Executar as práticas recomendadas para melhorar o bem-estar.
 
+#### *Passo 4: Encerrar sessão*  
+- *Subtarefa 4.1*: Voltar ao menu principal do app.  
+- *Subtarefa 4.2*: Fechar o app.
+
+---
