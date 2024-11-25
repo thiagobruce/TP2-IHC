@@ -4,3 +4,4 @@
 
 # Cenário de Interação 2: Monitoramento Detalhado na Escala de Sentimentos
 
+![Molic marcos_remium 2  drawio](https://github.com/user-attachments/assets/168d3195-24f6-4fda-8d1a-3b5c0b98b942)
