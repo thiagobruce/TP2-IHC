@@ -2,5 +2,5 @@
 
 
 
-![ana](https://github.com/user-attachments/assets/8794543a-0ae3-43fc-a342-223e83b5c7e3)
-![ana](https://github.com/user-attachments/assets/2065c47c-d66b-4d46-997b-abfbc32c0242)
+![ana](https://github.com/user-attachments/assets/559acedd-fbd9-4d5b-9aae-068264787d35)
+![ana 2](https://github.com/user-attachments/assets/569d2680-47b5-49c1-b53c-c7879386d596)
