@@ -1,5 +1,5 @@
-CENA 1
+CENA 1: Participação no Jogo de Organização Criativa
 
-![Molic_carolina 1 drawio](https://github.com/user-attachments/assets/5043e419-aa73-43a1-bfb4-1f273e3fa735)
+![Molic_CAROLINA drawio](https://github.com/user-attachments/assets/5d6342f7-857a-466c-a5ed-aed17182cd90)
 
 CENA 2
