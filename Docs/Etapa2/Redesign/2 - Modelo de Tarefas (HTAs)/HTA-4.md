@@ -1,7 +1,6 @@
 # Realização de Técnicas Básicas de Relaxamento
 
-![WhatsApp Image 2024-11-25 at 17 06 37 (1)](https://github.com/user-attachments/assets/878dace9-32de-4e94-88a0-7dea0624fb95)
-
+![WhatsApp Image 2024-11-25 at 17 30 23 (1)](https://github.com/user-attachments/assets/b4cf260e-07e7-436b-a501-6f95aff04666)
 
 ## Descrição
 *Objetivo Principal*: Executar uma técnica de relaxamento guiada.  
