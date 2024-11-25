@@ -1,4 +1,4 @@
-# Funcionalidade "Jogo de Organização Criaiva"
+# Funcionalidade "Jogo de Organização Criativa"
 
 ![WhatsApp Image 2024-11-25 at 17 38 50](https://github.com/user-attachments/assets/1dcedcff-d849-4002-a8fd-10a92def09b5)
 
